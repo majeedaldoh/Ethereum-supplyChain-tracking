@@ -1,15 +1,10 @@
 
 ## Libraries
-##### "lite-server": "^2.5.3"
-Web server for local testing
-##### "ganache-cli": "^6.4.5"
+
+##### "ganache-cli": "^7.5.0"
 Local Ethereum blockchain
-##### "truffle": "5.0.27"
+##### "truffle": "5.6.7"
 Framework for deploing smart contracts
-##### "truffle-assertions": "^0.9.1"
-Assertions library for testing on events
-##### "truffle-hdwallet-provider": "^1.0.14"
-HDWalletProvider for Infura deployment
 
 
 
